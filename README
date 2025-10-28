@@ -1,0 +1,3 @@
+ Training a small neural net to predict rock properties such as porosity and permeability from well log data. The dataset I am training the neural net on is rougly 8000 lines of well log data from Kansas Geological Survey. This dataset contain data on resistivity, spontaneous potential, gamma ray, bulk density, neutron and density porosity data.
+
+The aim is to use typical well log data like neutron and gamma ray to predict more complex rock properties like porosity and permeability that are more difficult and expensive to measure directly. By training a neural network on this data, I hope to gain some experience applying machine learning in an oil and gas context. 
